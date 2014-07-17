@@ -1,6 +1,6 @@
-Тестовые задания на вакансию PHP-программиста
+Тестовые задания
 =============================================
 
-* [Задания по PHP](https://github.com/coffeestudio/quiz/php.md)
-* [Задания по JavaScript](https://github.com/coffeestudio/quiz/javascript.md)
-* [Задания по CSS](https://github.com/coffeestudio/quiz/css.md)
+* [Задания по PHP](https://github.com/coffeestudio/quiz/blob/master/php.md)
+* [Задания по JavaScript](https://github.com/coffeestudio/quiz/blob/master/javascript.md)
+* [Задания по CSS](https://github.com/coffeestudio/quiz/blob/master/css.md)
