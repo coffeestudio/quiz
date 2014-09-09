@@ -10,10 +10,10 @@ JavaScript
     <input type="text" id="text" onfocus="text.value = window[text.value].innerHTML;" value="hello-world" />
 	```
 	
-3. Существует блок со стилями: 
+3. Есть блок (<div></div>) со стилями: 
 	```css
 	div {width: 200px; height: 200px; cursor: pointer; background-color: #333;}
 	div:hover {background-color: #f00;}
 	```
-	Нужно, без задания непосредственно стилей в скрипте, сделать так, чтобы блок не менял свой цвет при клике на него на планшетах.
 	Нужно, чтобы на планшетах блок не менял своего цвета по клику.
+	Нельзя задавать стили внутри скрипта.
