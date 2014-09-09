@@ -10,7 +10,7 @@ JavaScript
     <input type="text" id="text" onfocus="text.value = window[text.value].innerHTML;" value="hello-world" />
 	```
 	
-3. Есть блок (<div></div>) со стилями: 
+3. Есть блок (`<div></div>`) со стилями: 
 	```css
 	div {width: 200px; height: 200px; cursor: pointer; background-color: #333;}
 	div:hover {background-color: #f00;}
